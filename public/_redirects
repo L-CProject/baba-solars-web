@@ -1,0 +1,3 @@
+# Prerendered pages (e.g. /pricing → /pricing/index.html) are served as files first.
+# Everything else (admin panel, unknown URLs) gets the app shell.
+/*    /spa.html   200
